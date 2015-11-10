@@ -1,0 +1,3 @@
+rootProject.name = 'myRu'
+
+include ':app'
